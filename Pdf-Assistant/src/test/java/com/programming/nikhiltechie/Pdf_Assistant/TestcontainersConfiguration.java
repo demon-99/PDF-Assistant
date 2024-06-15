@@ -1,0 +1,8 @@
+package com.programming.nikhiltechie.Pdf_Assistant;
+
+import org.springframework.boot.test.context.TestConfiguration;
+
+@TestConfiguration(proxyBeanMethods = false)
+class TestcontainersConfiguration {
+
+}
